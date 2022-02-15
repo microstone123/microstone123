@@ -1,7 +1,4 @@
 <h2> Hi, I'm MicroStone! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
- 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
- 
 ###  A little more about me...  
 <img src='https://github.com/microstone123/microstone123/blob/main/1.jpg'>
 ### My top 10 technologies-
