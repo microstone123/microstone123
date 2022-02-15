@@ -7,26 +7,7 @@
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
  
-```javascript
- class WhoAmI:
-    user = '公众号 程序员GitHub'
-    current_edu = "外企工作18年的资深老码农"
-    hobbies = [
-                'Drawing',
-                'Watching Anime',
-                'Reading Sci-Fi Novels'
-                'Being up all Night chasing that ONE BUG...'
-            ]
-     
-    def getCity():
-        retrun Hyderabad_India()
-     
-    def Ambitions():
-        LearnJapanese()
-        CreateSkyNet()
-        FinishMyNovel()
-        # Assume 10 more awesome ambitions here  ;)
-```
+<img src='https://github.com/microstone123/microstone123/blob/main/1.jpg'>
  
 ### My top 10 technologies-
  
