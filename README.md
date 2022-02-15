@@ -1,6 +1,6 @@
 <h2> Hi, I'm MicroStone! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3> A little more about me... <h3>
-<img src='https://github.com/microstone123/microstone123/blob/main/1.jpg'>
+<img src='https://github.com/microstone123/microstone123/blob/main/12.jpg'>
 <h3> My top 10 technologies-<h3>
  
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
