@@ -1,5 +1,5 @@
 <h2> Hi, I'm MicroStone! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-###  A little more about me...  
+### A little more about me...   
 <img src='https://github.com/microstone123/microstone123/blob/main/1.jpg'>
 ### My top 10 technologies-
  
